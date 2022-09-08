@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  main:
+    build: .
+    image: om-test
+    volumes:
+      - ../organicmaps:/organicmaps/
+    restart: unless-stopped
