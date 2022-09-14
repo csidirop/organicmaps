@@ -4,7 +4,7 @@
 • Geliştirilmiş OSM giriş sayfası ve OSM profili
 • Daha hızlı, daha iyi arama
 • Düzenlemeden sonra oluşan çökme düzeltildi
-• Yer imi listeleri artık son düzenlenmeye göre sıralanıyor
+• Yer imi listeleri artık son değiştirilmeye göre sıralanıyor
 • Çeviriler iyileştirildi
 • Sürüş, müzik ve dil okulları, arkeolojik site, kaleler eklendi
 • Diğer stiller ve simgeler geliştirildi
