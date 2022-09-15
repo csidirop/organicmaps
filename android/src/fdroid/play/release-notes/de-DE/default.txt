@@ -1,5 +1,5 @@
 • Neue OSM-Kartendaten ab dem 12. September
-• Entfernte untere Symbolleiste für bessere UX und Sichtbarkeit der Karte
+• Untere Symbolleiste für bessere UX und Sichtbarkeit der Karte entfernt
 • Verbesserte OSM-Anmeldeseite und OSM-Profil
 • Schnellere, bessere Suche
 • Absturz beim Starten nach der Bearbeitung behoben
